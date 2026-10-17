@@ -1,23 +1,11 @@
-# 👋 Hi, I'm Nikhil Rane
+# Nikhil Rane
 
-**Data Analyst | Product Analytics | Business Intelligence | GenAI**
+Data Analyst building data-driven solutions with SQL, Python, and GenAI.
 
-I build data-driven solutions that turn complex business problems into actionable insights.
+Currently exploring LLM-powered analytics and Text-to-SQL.
 
-### 🛠️ Technical Skills
-- **Querying:** SQL
-- **Programming:** Python, Pandas, NumPy
-- **Analytics & BI:** Looker, Power BI, Tableau, DOMO
-- **Data Engineering:** Databricks, Apache Airflow
-- **GenAI:** LLMs, Text-to-SQL, DuckDB, Retrieval-Augmented Generation (RAG)
+📌 **Projects** · [Analytics Archive](https://github.com/Nikhil231999/analytics-project-archive)
 
-### 🚀 Featured Projects
-- **GenAI Business Analyst** — Ask business questions in natural language and generate data-driven answers using AI and SQL.
-- **Business Insights** — Analytical projects focused on business performance and actionable insights.
-- **Revenue Analytics** — Explore revenue trends, performance drivers, and business metrics.
-
-### 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/-nikhilrane/)
-- Email: [nikhil.rane237@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/-nikhilrane/) · [Email](mailto:nikhil.rane237@gmail.com)
 
 
